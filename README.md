@@ -3,7 +3,7 @@ This is an R script submitted for the course project in the Getting and Cleaning
 
 ###What it does
 The run_analysis.R script:
-* Reads into R data collected from 30 subjects using accelerometers from Samsung smartphones;
+* Reads into R data collected from 30 subjects using the accelerometer and gyroscope from Samsung smartphones;
 * Cleans up that data according to tidy data principles; 
 * Transforms the dataset by extracting a subset of variables of interest; 
 * Further transforms the dataset by calculating the mean values of each of the variables for each subject in each of six conditions;
